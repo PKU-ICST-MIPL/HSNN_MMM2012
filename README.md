@@ -17,4 +17,4 @@ Yuxin Peng, Xin Huang, and Yunzhen Zhao, "An Overview of Cross-media Retrieval: 
 
 our benchmark website: www.icst.pku.edu.cn/mipl/xmedia
 
-and our homepage: www.icst.pku.edu.cn/mipl/
+and our homepage: www.icst.pku.edu.cn/mipl
