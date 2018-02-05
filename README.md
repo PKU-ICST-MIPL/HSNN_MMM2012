@@ -1,7 +1,7 @@
 # Introduction
 This is the source code of our MMM 2012 paper "Effective Heterogeneous Similarity Measure with Nearest Neighbors for Cross-Media Retrieval", Please cite the following paper if you use our code.
 
-Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Effective Heterogeneous Similarity Measure with Nearest Neighbors for Cross-Media Retrieval", 18th International Conference on MultiMedia Modeling (MMM), pp. 312-322, Klagenfurt, Austria, Jan. 4-6, 2012. 
+Xiaohua Zhai, Yuxin Peng, and Jianguo Xiao, "Effective Heterogeneous Similarity Measure with Nearest Neighbors for Cross-Media Retrieval", 18th International Conference on MultiMedia Modeling (MMM), pp. 312-322, Klagenfurt, Austria, Jan. 4-6, 2012. [[PDF]](http://www.icst.pku.edu.cn/mipl/tiki-download_file.php?fileId=289) 
 
 # Usage
 Run our script to train and test:
